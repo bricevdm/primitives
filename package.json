@@ -1,0 +1,21 @@
+{
+  "name": "come.wizards-republic.delaunay2D",
+  "version": "0.0.1",
+  "displayName": "Primitives",
+  "description": "Geometric Primitives.",
+  "unity": "2020.1",
+  "unityRelease": "8f1",
+  "dependencies": {
+ },
+ "keywords": [
+    "framework",
+    "foundation"
+  ],
+  "author": {
+    "name": "Brice Vandemoortele",
+    "email": "info@wizards-republic.com",
+    "url": "http://wizards-republic.com"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
