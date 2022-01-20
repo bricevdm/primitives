@@ -48,6 +48,7 @@ namespace WizardsRepublic.Primitives
 
         public static bool operator ==(Triangle left, Triangle right)
         {
+            if (left == null || right == null) return false;
             return (left.A == right.A || left.A == right.B || left.A == right.C)
                    && (left.B == right.A || left.B == right.B || left.B == right.C)
                    && (left.C == right.A || left.C == right.B || left.C == right.C);
