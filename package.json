@@ -12,9 +12,13 @@
     "foundation"
   ],
   "author": {
-    "name": "Brice @ Wizards Republic",
+    "name": "Wizards Republic",
     "email": "info@wizards-republic.com",
     "url": "http://wizards-republic.com"
+  },
+  "repository": {
+     "type": "git",
+     "url": "ssh://git@github.com:bricevdm/primitives.git"
   },
   "type": "library",
   "hideInEditor": false
